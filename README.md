@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @leomdsousa
-- 👀 I’m interested in programming, sports, games and languages (english and french)
-- 🌱 I’m currently learning about Design Patterns, Angular and React
+- 👀 I’m interested in programming, watching sports, games and languages (currently french)
+- 🌱 I’m currently learning about Angular and NoSQL
 - 📫 How you can find me: leonardomdsousa@gmail.com
